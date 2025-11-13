@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react';
-import './App.css';
+import 'App.css';
 
 function App() {
   const API = "https://pokeapi.co/api/v2/pokemon";
